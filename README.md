@@ -1,6 +1,10 @@
 <a href="https://velog.io/@lee-hees"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/glascen_d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://gmltmd1997.github.io/"><img src="https://img.shields.io/badge/Portfolio-8ed0c6?style=flat&logo=Github&logoColor=white"/></a>
+<a href="https://gmltmd1997.github.io/" target="_blank">
+    <img 
+        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://gmltmd1997.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&width=100%&height=200&section=header&text=HeeSeung Lee, App Developer&fontAlignY=55&fontSize=40&animation=fadeIn&fontColor=fff"/>
 
